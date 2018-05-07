@@ -1,0 +1,123 @@
+@charset "UTF-8";
+.navigator{
+	width:1386px;
+	height:50px;
+	/*background-color:rgba(37,59,72,1);*/
+	background-color:rgba(201,212,214,1);
+	margin-bottom:-10px;
+	margin-bottom:10px;
+	padding-left:1000px;
+	
+	
+	
+	
+}
+#deng{
+	width:50px;
+	height:50px;
+	background-color:red;
+	border-radius:50% 50%;
+	position:absolute;
+	margin-left:591px;
+	margin-top:115px;
+	/*background-image: linear-gradient(to top, #fff,green);*/
+}
+.btn-danger{
+	margin-top:8px;
+	background-color:#d45169;
+}
+span{
+	color:white;
+	font-weight: bold;
+}
+body{
+	background-color:#e9e9e9;
+}
+
+.nihao{
+	float:right;
+	width:500px;
+	height:600px;
+	background-color:#7d7171;
+	border-radius:5% 5%;
+}
+.center{
+	float:left;
+	width:800px;
+	height:600px;
+	background-color:#7d7171;
+	border-radius:5% 5%;
+	position:relative;
+	
+}
+.tiban{
+	width:600px;
+	height:450px;
+	background-image:url(../img/tiban.png);
+	border-radius:10% 10%;
+	margin-left:85px;
+}
+.daan-img{
+	
+	margin-left:76px;
+	margin-top:63px;
+	display:inline-block;
+	vertical-align:bottom;
+	border-radius:10% 10%;
+}
+textarea{
+	width:200px;
+	height:93px;
+	margin-top:20px;
+	border-radius:10% 10%;
+	background-image:url(../img/log2.png)
+	border:0px;
+}
+.heiban{
+	margin-top:20px;
+	vertical-align:bottom;
+	
+	display:block;
+}
+.tip{
+	margin-left:91px;
+	margin-top:64px;
+	font-size:20px;
+	font-weight:bold;
+}
+.jieguo{
+	width:100px;
+	height:50px;
+	margin-left:20px;
+	margin-top:20px;
+	font-size:30px;
+	font-weight:bold;
+	text-align: center;
+}
+.jieguo1{
+	width:200px;
+	height:50px;
+	margin-top:20px;
+	margin-left:97px;
+	font-size:30px;
+	font-weight:bold;
+	text-align: center;
+	display: block;
+}
+.timu-last{
+	margin-top:10px;
+	margin-left:10px;
+}
+.jieguo-last{
+	margin-top:10px;
+	margin-left:10px;
+}
+#next{
+	margin-left:20px;
+	width:60px;
+	height:30px;
+}
+#queding{
+	width:60px;
+	height:30px;
+}
